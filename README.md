@@ -1,1 +1,1 @@
-Rep for storing cases and solutions tasks by SQL and DAX. 
+Rep for storing cases and solving test tasks by SQL and DAX.   
